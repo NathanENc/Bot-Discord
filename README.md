@@ -1,4 +1,4 @@
-# El-masturbot
+# Bot-Discord
 
 Hola este bot fue desarrolado por mamar al daniel
 ![image](https://user-images.githubusercontent.com/82906813/180109166-768dcb7c-5621-4107-8eb3-d5821dc6d9a0.png)
